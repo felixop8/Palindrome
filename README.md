@@ -1,12 +1,12 @@
-# _Stress Test_
+# _Palindrome_
 
-#### _Stress Test quiz will let you know what to do in case you have a low or high stress level._
+#### _Palindrome word detector_
 
 #### By _**Felix Oporto**_
 
 ## Description
 
-_This project makes possible for users to find out how stressed they are and what to do next._
+_Palindrome app take a word or phrase and tell the user if it is a palindrome word or phrase._
 
 ## Setup/Installation Requirements
 
