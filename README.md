@@ -22,7 +22,7 @@ _Please direct questions  to the author felixop8@gmail.com_
 
 ## Technologies Used
 
-_Written in HTML, CSS and JavaScript with the help of Jquery and Bootstrap._
+_Written in HTML and JavaScript._
 
 ### License
 
